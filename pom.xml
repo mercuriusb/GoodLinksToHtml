@@ -103,6 +103,7 @@
               <buildArgs>
                 <buildArg>--no-fallback</buildArg>
                 <buildArg>--enable-preview</buildArg>
+                <buildArg>--initialize-at-build-time=org.apache.logging.log4j.Logger,org.apache.logging.log4j.status.StatusLogger,org.apache.logging.log4j.spi.AbstractLogger</buildArg>
               </buildArgs>
             </configuration>
           </plugin>
