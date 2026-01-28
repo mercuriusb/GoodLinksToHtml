@@ -1,12 +1,12 @@
 package org.bmconverter.goodlinks.cli;
 
-import org.apache.logging.log4j.LogManager;
-import org.apache.logging.log4j.Logger;
 import org.bmconverter.goodlinks.model.Bookmark;
 import org.bmconverter.goodlinks.model.TagNode;
 import org.bmconverter.goodlinks.service.BookmarkService;
 import org.bmconverter.goodlinks.service.ExportService;
 import org.bmconverter.goodlinks.service.SearchIndexService;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 import picocli.CommandLine;
 import picocli.CommandLine.Command;
 import picocli.CommandLine.Option;
@@ -18,7 +18,7 @@ import java.util.concurrent.Callable;
 @Command(name = "bookmarks-export", mixinStandardHelpOptions = true, version = "1.0",
     description = "Export bookmarks JSON to hierarchical HTML pages.")
 public class ExportCommand implements Callable<Integer>{
-  private static final Logger logger = LogManager.getLogger(ExportCommand.class);
+  private static final Logger logger = LoggerFactory.getLogger(ExportCommand.class);
 
   @Option(names = {"-i", "--input"}, description = "Input JSON file", defaultValue = "src/main/resources/GoodLinks-Export.json")
   private File inputFile;

@@ -47,7 +47,7 @@ Create a Java application that exports bookmarks from a JSON file into a hierarc
 ## Technical Details
 
 1. **Package Structure**: The project uses the base package `org.bmconverter.goodlinks`.
-2. **Logging**: Uses **Log4j 2** for application logging.
+2. **Logging**: Uses **SLF4J** with a simple backend for application logging (optimized for GraalVM).
 3. **Template Engine**: Use a template engine (e.g., Pebble) that allows users to modify the HTML structure.
 4. **Index Generation**: The search index must be generated during the export process.
 5. **Docker Support**:
