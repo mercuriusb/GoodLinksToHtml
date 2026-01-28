@@ -63,7 +63,16 @@ docker run --rm \
 
 ### Option 3: GraalVM Native Image
 
-Build a standalone executable (Apple Silicon / Linux / Windows):
+Build a standalone executable (Apple Silicon / Linux / Windows).
+
+**Note**: To build this locally, you **must** have a GraalVM distribution of the JDK installed and set as your `JAVA_HOME`. If you are using SDKMAN, you can install it with:
+
+```bash
+sdk install java 22.3.r17-grl # or a newer GraalVM version
+sdk use java 22.3.r17-grl
+```
+
+**Build command:**
 
 ```bash
 mvn clean package -Pnative
@@ -74,6 +83,8 @@ Run the generated binary:
 ```bash
 ./target/bmconverter --input src/main/resources/GoodLinks-Export.json --output output
 ```
+
+**Tip**: If you don't want to install GraalVM locally, use the **Docker** option (Option 2), which handles the GraalVM environment automatically inside the container.
 
 ## Configuration
 
