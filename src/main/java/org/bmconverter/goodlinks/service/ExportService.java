@@ -1,9 +1,9 @@
 package org.bmconverter.goodlinks.service;
 
-import org.bmconverter.goodlinks.model.Bookmark;
-import org.bmconverter.goodlinks.model.TagNode;
 import io.pebbletemplates.pebble.PebbleEngine;
 import io.pebbletemplates.pebble.template.PebbleTemplate;
+import org.bmconverter.goodlinks.model.Bookmark;
+import org.bmconverter.goodlinks.model.TagNode;
 
 import java.io.*;
 import java.nio.file.Files;
@@ -15,7 +15,9 @@ public class ExportService{
   private final PebbleEngine engine = new PebbleEngine.Builder().build();
 
   public void export(List<Bookmark> bookmarks, TagNode root, File outputDir) throws IOException{
-    if(!outputDir.exists()){
+    if(outputDir.exists()){
+      deleteDirectoryContents(outputDir);
+    }else{
       outputDir.mkdirs();
     }
 
@@ -37,6 +39,18 @@ public class ExportService{
         throw new FileNotFoundException("Resource not found: " + resourcePath);
       }
       Files.copy(is, destination.toPath(), java.nio.file.StandardCopyOption.REPLACE_EXISTING);
+    }
+  }
+
+  private void deleteDirectoryContents(File dir){
+    File[] files = dir.listFiles();
+    if(files != null){
+      for(File file : files){
+        if(file.isDirectory()){
+          deleteDirectoryContents(file);
+        }
+        file.delete();
+      }
     }
   }
 

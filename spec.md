@@ -14,7 +14,7 @@ Create a Java application that exports bookmarks from a JSON file into a hierarc
     - Bookmarks without any tags must be ignored.
     - The tag "index" must be ignored and not displayed in navigation.
     - Bookmarks that only have the "index" tag must be ignored.
-6. **Output**: Generate HTML pages listing bookmarks. The application title should be "Bookmarks".
+6. **Output**: Generate HTML pages listing bookmarks. The application title should be "Bookmarks". The output directory is cleared before each export.
 7. **Start Page**: The `index.html` page must not contain any bookmark list or tags. It should only show the navigation bar and search field.
 
 ## User Interface (HTML/CSS)
