@@ -52,11 +52,14 @@ Create a Java application that exports bookmarks from a JSON file into a hierarc
 4. **Index Generation**: The search index must be generated during the export process.
 5. **Docker Support**:
     - Provide a `Dockerfile` for containerized execution.
-    - The image should use a multi-stage build to produce a minimal runtime environment.
+    - The image should use a multi-stage build to produce a minimal runtime environment based on a native executable.
 6. **Native Executable**:
     - Support building a native executable using GraalVM (Native Image).
+    - Use `picocli-codegen` for ahead-of-time metadata generation to ensure CLI functionality.
     - Ensure compatibility with Apple Silicon (AArch64) and Linux (x86_64).
-7. **Project Metadata**:
+7. **Automated Builds**:
+    - Use GitHub Actions to automatically build and provide native binaries for Linux, macOS, and Windows.
+8. **Project Metadata**:
     - Group ID: `org.bmconverter`
     - Artifact ID: `GoodLinksToHtml`
 8. **Development Support**: Includes a comprehensive `.gitignore` supporting IntelliJ IDEA, Eclipse, and VS Code.

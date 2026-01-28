@@ -8,7 +8,8 @@ A Java-based utility to export bookmarks from a JSON file (GoodLinks format) int
 - **Fast Search**: Client-side search using a pre-built inverted index (no backend required).
 - **Modern UI**: Styled with Tailwind CSS and DaisyUI for a clean, responsive experience.
 - **Flexible Formats**: Supports running via Maven (JAR), Docker, or as a GraalVM Native Image.
-- **Logging**: Robust logging with Log4j 2.
+- **Logging**: Lightweight logging with SLF4J (optimized for Native Image).
+- **Automated CI/CD**: Native binaries for all major platforms are automatically built on GitHub.
 
 ## Prerequisites
 
