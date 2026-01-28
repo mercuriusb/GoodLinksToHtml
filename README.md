@@ -84,7 +84,18 @@ Run the generated binary:
 ./target/bmconverter --input src/main/resources/GoodLinks-Export.json --output output
 ```
 
-**Tip**: If you don't want to install GraalVM locally, use the **Docker** option (Option 2), which handles the GraalVM environment automatically inside the container.
+### Option 4: Download Pre-built Binaries (via GitHub Actions)
+
+The project is configured with GitHub Actions to automatically build native binaries for **Linux**, **macOS (Apple Silicon/Intel)**, and **Windows** on every push to the `main` branch.
+
+**To get the binaries:**
+
+1. Go to your repository on GitHub.
+2. Click on the **Actions** tab.
+3. Select the latest successful workflow run (named "Build Native Binaries").
+4. Scroll down to the **Artifacts** section.
+5. Download the zip file for your operating system.
+6. Unzip and run the `bmconverter` executable.
 
 ## Configuration
 

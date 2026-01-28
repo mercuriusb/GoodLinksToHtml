@@ -1,0 +1,45 @@
+name: Build Native Binaries
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  build:
+    name: Build on ${{ matrix.os }}
+    runs-on: ${{ matrix.os }}
+    strategy:
+      matrix:
+        os: [ ubuntu-latest, macos-latest, windows-latest ]
+        include:
+          - os: ubuntu-latest
+            artifact_name: bmconverter-linux
+            binary_path: target/bmconverter
+          - os: macos-latest
+            artifact_name: bmconverter-macos
+            binary_path: target/bmconverter
+          - os: windows-latest
+            artifact_name: bmconverter-windows
+            binary_path: target/bmconverter.exe
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up GraalVM
+        uses: graalvm/setup-graalvm@v1
+        with:
+          java-version: '17'
+          distribution: 'graalvm'
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          native-image-job-reports: 'true'
+
+      - name: Build Native Image
+        run: mvn -Pnative clean package -DskipTests
+
+      - name: Upload Artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: ${{ matrix.artifact_name }}
+          path: ${{ matrix.binary_path }}
