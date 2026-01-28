@@ -50,8 +50,14 @@ Create a Java application that exports bookmarks from a JSON file into a hierarc
 2. **Logging**: Uses **Log4j 2** for application logging.
 3. **Template Engine**: Use a template engine (e.g., Pebble) that allows users to modify the HTML structure.
 4. **Index Generation**: The search index must be generated during the export process.
-5. **Project Metadata**:
+5. **Docker Support**:
+    - Provide a `Dockerfile` for containerized execution.
+    - The image should use a multi-stage build to produce a minimal runtime environment.
+6. **Native Executable**:
+    - Support building a native executable using GraalVM (Native Image).
+    - Ensure compatibility with Apple Silicon (AArch64) and Linux (x86_64).
+7. **Project Metadata**:
     - Group ID: `org.bmconverter`
     - Artifact ID: `GoodLinksToHtml`
-6. **Development Support**: Includes a comprehensive `.gitignore` supporting IntelliJ IDEA, Eclipse, and VS Code.
+8. **Development Support**: Includes a comprehensive `.gitignore` supporting IntelliJ IDEA, Eclipse, and VS Code.
 
