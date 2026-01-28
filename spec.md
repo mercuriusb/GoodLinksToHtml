@@ -6,7 +6,7 @@ Create a Java application that exports bookmarks from a JSON file into a hierarc
 
 ## Core Requirements
 
-1. **Platform**: Developed using Java 25+.
+1. **Platform**: Developed using Java 21+.
 2. **Interface**: Provide a CLI for interacting with the application.
 3. **Data Source**: Parse `GoodLinks-Export.json` from `src/main/resources`.
 4. **Data Content**: The JSON contains bookmarks with a title, summary (description), and tags.

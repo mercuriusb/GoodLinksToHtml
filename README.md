@@ -12,7 +12,7 @@ A Java-based utility to export bookmarks from a JSON file (GoodLinks format) int
 
 ## Prerequisites
 
-- **Java 25+** (for building and running via Maven)
+- **Java 21+** (for building and running via Maven)
 - **Maven 3.9+**
 - **Docker** (optional, for containerized execution)
 - **GraalVM** (optional, for building native executables)

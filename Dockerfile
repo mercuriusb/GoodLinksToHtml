@@ -1,5 +1,5 @@
 # Stage 1: Build the application
-FROM ghcr.io/graalvm/native-image-community:23 AS builder
+FROM ghcr.io/graalvm/native-image-community:21 AS builder
 
 # Set working directory
 WORKDIR /app
