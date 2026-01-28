@@ -1,0 +1,759 @@
+[INFO] Scanning for projects...
+[INFO]
+[INFO] -----------------< com.clubmembership:GoodLinksToHtml >-----------------
+[INFO] Building GoodLinksToHtml 1.0-SNAPSHOT
+[INFO]   from pom.xml
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO]
+[INFO] --- resources:3.3.1:resources (default-resources) @ GoodLinksToHtml ---
+[INFO] Copying 3 resources from src/main/resources to target/classes
+[INFO]
+[INFO] --- compiler:3.11.0:compile (default-compile) @ GoodLinksToHtml ---
+[INFO] Nothing to compile - all classes are up to date
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  0.169 s
+[INFO] Finished at: 2026-01-27T22:53:36+01:00
+[INFO] ------------------------------------------------------------------------
+[INFO] Scanning for projects...
+[INFO]
+[INFO] -----------------< com.clubmembership:GoodLinksToHtml >-----------------
+[INFO] Building GoodLinksToHtml 1.0-SNAPSHOT
+[INFO]   from pom.xml
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO]
+[INFO] --- exec:3.6.3:java (default-cli) @ GoodLinksToHtml ---
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+Loading bookmarks...
+Building tag hierarchy...
+Generating search index...
+Exporting HTML pages...
+Export completed successfully to: /Users/hermesb/dev/git/GoodLinksToHtml/output
+-rw-r--r--@ 1 hermesb  staff  51314 Jan 27 22:53 output/index.html
+<!DOCTYPE html>
+<html>
+<body>
+<h1>All Bookmarks</h1>
+<ul>
+        <li>&quot;Waiting&quot; (Hubert Gredler) - CrossCurrent Quartet @ Musikwerkstatt Wels, Nov. 25 2025</li>
+        <li>#5nach12 mit Prof. Dr. Stefan Rahmstorf</li>
+        <li>(1) Scrum vs Agile Methodology: What&#39;s the difference? - YouTube</li>
+        <li>(Bi)Temporal Tables, PostgreSQL and SQL Standard | The World of Data</li>
+        <li>10 Things You Didn’t Know About jOOQ</li>
+        <li>10 tips for writing secure, maintainable Dockerfiles | Red Hat Developer</li>
+        <li>1982 Jaguar XJR-5 - Chassis XJR-5/001 - Ultimatecarpage.com</li>
+        <li>20 Essential Krautrock Songs</li>
+        <li>24 Hours of Le Mans - 1968 - YouTube</li>
+        <li>24h Rennen Cams</li>
+        <li>500px</li>
+        <li>64&#39;er – Das Magazin für Computer-Fans</li>
+        <li>8 Gründe, warum man bitemporale Daten benötigt</li>
+        <li>@myfear.com on Bluesky</li>
+        <li>@VaughnVernon | Vaughn Vernon Domain-Driven Design</li>
+        <li>A deep dive on Java Spring framework transactional annotation</li>
+        <li>A Guide to Java Streams in Java 8 - Stackify</li>
+        <li>A roadmap to scaling Postgres</li>
+        <li>About RaceResults</li>
+        <li>Adobe Photoshop CC Masterclass — Vom Einsteiger zum Profi</li>
+        <li>Advantages of monorepos</li>
+        <li>AIR - Live at the Niemeyer Space for ARTE Concert (Binaural Show) (Full Concert - Official Video) - YouTube</li>
+        <li>AIR played Moon Safari at Royal Albert Hall – the synth setup</li>
+        <li>Air: Tiny Desk Concert</li>
+        <li>Airbyte | Open-Source Data Integration Platform | ELT tool</li>
+        <li>Albert Koch (@thethealbert.bsky.social)</li>
+        <li>Alexander Kraß</li>
+        <li>Alles über Steckersolar, Balkonkraftwerke &amp; Solar! – Dein Balkon kann mehr. Dein Garten, deine Terasse, Wand oder Dach auch! Unabhängig.</li>
+        <li>An Illustrated Guide to OAuth and OpenID Connect</li>
+        <li>An Interactive Guide to Flexbox in CSS</li>
+        <li>An Overview of Distributed PostgreSQL Architectures</li>
+        <li>Antinote</li>
+        <li>Apache ECharts An Open Source JavaScript Visualization Library</li>
+        <li>apangin/nalim: Fast Java native interface based on JVMCI</li>
+        <li>API Governance: Using Patterns From PayPal, Netflix and More - The New Stack</li>
+        <li>API Prototyping in Practice</li>
+        <li>API Standards ARE Data Standards – Scott&#39;s Blog</li>
+        <li>Arcturus Part 1</li>
+        <li>As told in our Radio Show // Part 5 The History of Rock&#39;n&#39;Roll - Krautrock Jahre</li>
+        <li>Auditing with JPA, Hibernate, and Spring Data JPA</li>
+        <li>Authentication Explained: When to Use Basic, Bearer, OAuth2, JWT &amp; SSO</li>
+        <li>Autocomplete with Elasticsearch - Part 1: Prefix Queries</li>
+        <li>Autocomplete with Elasticsearch - Part 2: Index-Time Search-as-You-Type</li>
+        <li>Autocomplete with Elasticsearch - Part 3: Completion Suggester</li>
+        <li>Awesome Java Projects</li>
+        <li>Awesome Postgres | awesome-postgres</li>
+        <li>awesome-mac</li>
+        <li>Backfilling Postgres TOAST Columns in Debezium Data Change Events</li>
+        <li>Be more productive with IntelliJ IDEA - Marit van Dijk - YouTube</li>
+        <li>Befreit die Bäche, damit das Wasser im Land bleibt!</li>
+        <li>Behance</li>
+        <li>Behind HTMX: Carson Gross on the re-Rise of Hypermedia | Backend Banter 024 - YouTube</li>
+        <li>Best of Echoes 2020-The Top 30 Albums of the Year</li>
+        <li>Beyond Code: APIs as the Next OSS Battleground</li>
+        <li>BGNatur.com</li>
+        <li>Bi-temporale Historisierung – konsilium</li>
+        <li>BiTemporal data access patterns using MongoDB – Accelerate with PeerIslands</li>
+        <li>Bitemporal Data Model: Making it happened in Postgres- Chad Slaughter &amp; Hennrietta Dombrovskaya - YouTube</li>
+        <li>Bitemporal History</li>
+        <li>Bitemporal modeling</li>
+        <li>Blaubeeren: Gezüchtet in Perus Wüste für Europas Supermärkte</li>
+        <li>BLEASS Monolit | BLEASS</li>
+        <li>Blofeld iPad – Waldorf Music</li>
+        <li>Blues-Musik – Apple Music</li>
+        <li>Bobby Unser Rightly winning his tenth Pikes Peak.</li>
+        <li>BOOTSTRAP</li>
+        <li>Bowie David feat. John Frusciante - Bring Me The Disco King - YouTube</li>
+        <li>Buggy Horse And Buggy GIF - Buggy Horse And Buggy Big Bird - Discover &amp; Share GIFs</li>
+        <li>Build a Spring Boot App with AI Assistant | The IntelliJ IDEA Blog</li>
+        <li>Building A Rich Text Editor (WYSIWYG) — Smashing Magazine</li>
+        <li>bundesAPI/deutschland: Die wichtigsten APIs Deutschlands in einem Python Paket.</li>
+        <li>Can - Vernal Equinox Live - YouTube</li>
+        <li>Can hero Holger Czukay on Stockhausen, shortwave radio and being “too intriguing”</li>
+        <li>Canon EF / EF-S - DSLR-Forum</li>
+        <li>CanvasKit - Quickstart</li>
+        <li>Car Fast GIF - Car Fast Ridding - Discover &amp; Share GIFs</li>
+        <li>Cem Olcay Nikaya review, wavetable and FM Synthesizer for iOS and macOS</li>
+        <li>Chakra UI - A simple, modular and accessible component library that gives you the building blocks you need to build your React applications. - Chakra UI</li>
+        <li>Change data capture</li>
+        <li>charmbracelet/vhs: Your CLI home video recorder 📼</li>
+        <li>Chet Baker Live @ Ronnie Scott&#39;s</li>
+        <li>CHORDJAM by Audiomodern™ | The Ultimate Chord Machine</li>
+        <li>Christian Löffler, Hania Rani &amp; Fejká - Haingeraide</li>
+        <li>CI/CD Pipelines for Kubernetes Using GitLab CI</li>
+        <li>Cindy und Bert – Der Hund von Baskerville (Black Sabbath - Paranoid cover)</li>
+        <li>Clarke Stanley Tiny Desk Concert - YouTube</li>
+        <li>Clarke Stanley Tiny Desk Concert : NPR</li>
+        <li>Classic Super GT races to watch during the COVID-19 crisis</li>
+        <li>Clean Coder Blog</li>
+        <li>Clean Design, Strong Client: The way of the Elasticsearch&#39;s Java SDK</li>
+        <li>Cloud-native Microservices with Quarkus</li>
+        <li>Cloudflare Pages</li>
+        <li>Cluster on Brain Records, Brian Eno and Harmonia | Red Bull Music Academy</li>
+        <li>CodeReady Containers for OKD | OKD Kubernetes Platform</li>
+        <li>Compare Traefik Products &amp; Get Pricing | Traefik Labs</li>
+        <li>Comparison of Choices to run DBs/PostgresQL CRD on K8s for a small setup : r/kubernetes</li>
+        <li>Complete Guide to Elasticsearch</li>
+        <li>Comprehensive Python Cheatsheet</li>
+        <li>Configure Samba to Work Better with Mac OS X</li>
+        <li>Configuring uWSGI for Production Deployment | Bloomberg LP</li>
+        <li>containers/ramalama</li>
+        <li>Contour 4</li>
+        <li>cookpete/react-player: A React component for playing a variety of URLs, including file paths, YouTube, Facebook, Twitch, SoundCloud, Streamable, Vimeo, Wistia and DailyMotion</li>
+        <li>Course: OpenShift for the Absolute Beginners - Hands-on | Udemy</li>
+        <li>Create a Single Node OKD (SNO) Cluster with Assisted Installer | OKD Kubernetes Platform</li>
+        <li>Creating the Commodore 64: The Engineers’ Story</li>
+        <li>cshum/imagor</li>
+        <li>CSS</li>
+        <li>Cucumber</li>
+        <li>Cure: Robert Smith - &#39;Songs of a Lost World&#39; track-by-track | Tim&#39;s Listening Party - YouTube</li>
+        <li>Curiousmusic has just announced &#39;A Very Special New Project From Tim Story - Featuring contributions from Eve Maret, Mark Mothersbaugh, Rother Michael and more.&#39; I´m sure many of you will recognise the sound of the music</li>
+        <li>Custom Hooks | React Query | TanStack</li>
+        <li>Czukay Holger - Blessed Easter - YouTube</li>
+        <li>dailysportscar.com</li>
+        <li>Daniel Oh: &quot;Building Scalable, Agile, and Secure APIs with Kubernetes and Microservices www.cncf.io/blog/2025/03... #cncf @cncf.io&quot; — Bluesky</li>
+        <li>darold/pgcluu: PostgreSQL Cluster performances monitoring and auditing tool</li>
+        <li>Data-Oriented Programming in Java - Chris Kiehl</li>
+        <li>Database Caching With Redis and Java - DZone</li>
+        <li>datafaker-net/datafaker: Generating fake data for the JVM (Java, Kotlin, Groovy) has never been easier!</li>
+        <li>Davis Miles - Live in Vienna 1973 Stadthalle ganzes Konzert - YouTube</li>
+        <li>Davis Miles - Montreux Jazz Festival - 07 July 1988 - YouTube</li>
+        <li>Davis Miles Quintet, Concert in Karlsruhe, November 7th, 1967 (in color) - YouTube</li>
+        <li>DbGate | Open Source (no)SQL Database Client</li>
+        <li>Debugging Java Code in IntelliJ IDEA</li>
+        <li>Dependabot</li>
+        <li>Dependency inversion principle - Wikipedia</li>
+        <li>Der-Rennfahrer-Rolf-Stommelen</li>
+        <li>Designing Hexagonal Architecture with Java: An architect&#39;s guide to building maintainable and change-tolerant applications with Java and Quarkus 1. Auflage, Kindle Ausgabe</li>
+        <li>Devoxx Belgium 2023 - YouTube</li>
+        <li>Dexter</li>
+        <li>Die 24 Stunden von Le Mans: Das härteste Autorennen der Welt (1/3) | SPIEGEL TV Classics - YouTube</li>
+        <li>Die Coen-Brüder - Eine amerikanische Geschichte - Die ganze Doku | ARTE</li>
+        <li>Die ungeliebten Nachtspeicheröfen, für mich GELÖST! - HomeMatic-Forum / FHZ-Forum</li>
+        <li>Difftastic</li>
+        <li>Diskinternals</li>
+        <li>Display Auto-Configuration Report in Spring Boot | Baeldung</li>
+        <li>Distributed Java Background Job Scheduler · JobRunr</li>
+        <li>Distributed Transactions Made Simple with Quarkus and JTA</li>
+        <li>Ditch JSON for Speed: Protobuf + Quarkus REST Explained for Java Developers</li>
+        <li>Django ORM Performance :: TheOrangeOne</li>
+        <li>Django Packages : Reusable apps, sites and tools directory for Django</li>
+        <li>Do You know how to batch?</li>
+        <li>Documenting API Governance - by Bruno Pedro</li>
+        <li>Doggo Ipsum</li>
+        <li>Don&#39;t Do This - PostgreSQL wiki</li>
+        <li>Dr. Annegret Junker im Interview</li>
+        <li>Drama in der grünen Hölle... Mola geht der Sprit aus - YouTube</li>
+        <li>Drew Gibson: In Focus - YouTube</li>
+        <li>drewnoakes/metadata-extractor: Extracts Exif, IPTC, XMP, ICC and other metadata from image, video and audio files</li>
+        <li>Driverrating</li>
+        <li>DRM Norisring 1984 - Photo Gallery - Racing Sports Cars</li>
+        <li>Dynamic Role-Based Access in Quarkus: Fine-Grained Security Without Redeploys</li>
+        <li>Ebazhanov/linkedin-skill-assessments-quizzes: Full reference of LinkedIn answers 2023 for skill assessments (aws-lambda, rest-api, javascript, react, git, html, jquery, mongodb, java, Go, python, machine-learning, power-</li>
+        <li>eclipse/transformer: Eclipse Transformer provides tools and runtime components that transform Java binaries, such as individual class files and complete JARs and WARs, mapping changes to Java packages, type names, and related resource names.</li>
+        <li>Eifel Rallye Festival 2025 | Group B &amp; WRC legends, crashes, flames &amp; action - YouTube</li>
+        <li>Eifel Rallye Festival Homepage</li>
+        <li>Ein Ansatz für den Wald im Wandel</li>
+        <li>Elastic Search: Highlighting Text That Contains HTML Tags - Hamid Mosalla</li>
+        <li>Elasticsearch Highlights</li>
+        <li>Elasticsearch Indexing Strategy in Asset Management Platform</li>
+        <li>Elasticvue - Elasticsearch gui for the browser</li>
+        <li>Electronic Sound</li>
+        <li>Embeddable Inheritance with JPA and Hibernate - Vlad Mihalcea</li>
+        <li>EmEditor</li>
+        <li>Endurance Racing’s Golden Age: Group C - Full Story</li>
+        <li>ENDURANCE: The Documentary about Porsche at the Two Toughest GT Races in the World</li>
+        <li>Essential Ambient Albums: 1978 - Today | Digs</li>
+        <li>evcc - Sonne tanken ☀️🚘 - PV-Überschussladen für steuerbare Wallboxen</li>
+        <li>Event Sourcing and CQRS Explained | When should you use them? - YouTube</li>
+        <li>Event Sourcing in Quarkus: A Modern Java Tutorial</li>
+        <li>Excalidraw Libraries</li>
+        <li>F.9. btree_gist — GiST operator classes with B-tree behavior</li>
+        <li>Falken - 20 Years in 20 Stories</li>
+        <li>fallthrough - Modern Java</li>
+        <li>Faster Java Without Changing Any Code by Simon Ritter - YouTube</li>
+        <li>FastRawViewer</li>
+        <li>FIELDDATA Data is too large</li>
+        <li>FineTune: Open-Source-Lautstärkemixer für macOS regelt Apps separat</li>
+        <li>Five Tips For a Healthier Postgres Database in the New Year</li>
+        <li>fizzed/jsync: Pure Java rsync-like library for local to/from remote ssh/sftp. Can be used programmatically or via the command-line. Works on all platforms including Windows!</li>
+        <li>FKJ &amp; Yussef Dayes - Live From The Greenhouse - YouTube</li>
+        <li>Flickr</li>
+        <li>foambubble/foam</li>
+        <li>Folge 298 - Spec-Driven-Development mit Simon Martinelli  | Software Architektur im Stream</li>
+        <li>Font Forge</li>
+        <li>foobar2000</li>
+        <li>Forgejo</li>
+        <li>Fotostrecke: Die Eifel aus der Vogelperspektive - SportsCar-Info.de</li>
+        <li>Fred Flintstone The Flintstones GIF - Fred Flintstone The Flintstones Kissing Money - Discover &amp; Share GIFs</li>
+        <li>Free TV</li>
+        <li>From Here to There, from Where to Here - by David Biesack</li>
+        <li>Fstoppers - Photography News and Community for Creative Professionals</li>
+        <li>GABRIEL PETER family portrait - YouTube</li>
+        <li>Generating Model Classes Using Hibernate Reverse Engineering</li>
+        <li>Get all my Coding Problems of 2024 - YouTube</li>
+        <li>Getting Started with Blaze Persistence | Baeldung</li>
+        <li>Getting Started | Recoil</li>
+        <li>Git - Hotkey Cheatsheet</li>
+        <li>Git Rebase for the Terrified</li>
+        <li>GitHub - denizsafak/abogen: Generate audiobooks from EPUBs, PDFs and text with synchronized captions.</li>
+        <li>GitHub - DiUS/java-faker: Brings the popular ruby faker gem to Java</li>
+        <li>GitHub - elastic/curator: Curator: Tending your Elasticsearch indices</li>
+        <li>GitHub - kubernetes/minikube: Run Kubernetes locally</li>
+        <li>GitHub - wikimedia/search-highlighter</li>
+        <li>Goggles Paisano The Flintstones GIF - Goggles Paisano The Flintstones Racing - Discover &amp; Share GIFs</li>
+        <li>GoGo Penguin - From the North - GoGo Penguin Live in Manchester - YouTube</li>
+        <li>Golem.de: IT-News für Profis</li>
+        <li>Goodbye integers. Hello UUIDv7!</li>
+        <li>google/zx: A tool for writing better scripts</li>
+        <li>Gran Turismo presents The Ring</li>
+        <li>groenlandrecords - YouTube</li>
+        <li>GT-Eins</li>
+        <li>GT-Eins Forum</li>
+        <li>guidelines-study/books/Effective Java at master · valdemarjuniorr/guidelines-study · GitHub</li>
+        <li>h2non/imaginary</li>
+        <li>Handling Timezones in a Spring Boot Application</li>
+        <li>Hear a 19-Year-Old Prince Crushing It on Every Instrument in an Early Jam Session (1977)</li>
+        <li>Heinrich Wolf Fotograf | 1919 - 1983</li>
+        <li>Helm | Docs</li>
+        <li>herreriasjose/hibernate-legacy-databases-guide: Hibernate, Java and legacy RDBMS databases (a brush up guide)</li>
+        <li>Hexagonal Architecture (Ports and Adapters): Achieving True Domain Independence</li>
+        <li>Hexagonal Architecture – What Is It? Why Use It?</li>
+        <li>Hexagonal Architecture: The Secret to Scalable and Maintainable Code for Modern Software | by Roman Glushach | Medium</li>
+        <li>Hexagonale Architektur – Was ist das? + Ihre Vorteile</li>
+        <li>HHH-17404 : Add support of reading/writing from/to special source/target in FormatMapper by ejannett · Pull Request #9629 · hibernate/hibernate-orm</li>
+        <li>Hibernate Envers – Extending Revision Info with Custom Fields - Java Code Geeks</li>
+        <li>Hibernate Performance Tuning Tips - 2022 Edition</li>
+        <li>High-Performance Java Persistence - Vlad Mihalcea</li>
+        <li>Hill Judith | KNKX Studio Session</li>
+        <li>Historiker über gerechte Steuern: „Das ist vor allem Propaganda“</li>
+        <li>Historisierung von Daten in der Versicherungswirtschaft</li>
+        <li>Home</li>
+        <li>Home of Quarkus Cheat-Sheet</li>
+        <li>Home | endoflife.date</li>
+        <li>Homey</li>
+        <li>Hotkey Cheatsheet - Improve Your Productivity with Keyboard Shortcuts</li>
+        <li>hotswap - How to enable Intellij hot code swap - Stack Overflow</li>
+        <li>How Discord Indexes Trillions of Messages</li>
+        <li>How git worktrees improve our git workflow | by Saeed Zarinfam | ThreadSafe</li>
+        <li>How Netflix Uses Java - 2025 EditionSuchenInfoShoppingTon einschalten 2-fachFalls die Wiedergabe nicht in Kürze beginnt, empfehlen wir dir, das Gerät neu zu starten.•Nächstes VideoLiveDemnächstAbbrechenJetzt abspielenAll right, we can get started. Um, soI&#39;m just going to talk about basicallyTeilenMit Playlist teilenBei dem Versuch, Informationen zum Teilen abzurufen, ist ein Fehler aufgetreten. Versuche es bitte später noch einmal.Später ansehenTeilenLink kopieren</li>
+        <li>How Notion Runs PostgreSQL at Scale on Amazon RDS with pganalyze</li>
+        <li>How Stripe-Style API Versioning in Quarkus Saves Your Demos and Your Sanity</li>
+        <li>How to Build a Multi-Role, Multi-Content API in Quarkus (Without DTOs)</li>
+        <li>How to create hierarchies of Java objects from flat lists with Collector</li>
+        <li>How to Deploy PostgreSQL on Kubernetes</li>
+        <li>How to fetch multiple JPA collections with Blaze Persistence MULTISET</li>
+        <li>How to integrate Django to React. In this tutorial I make an empty Hello… | by Rohanmalo | Medium</li>
+        <li>How to integrate Vaadin with Quarkus</li>
+        <li>How to map a composite identifier using an automatically @GeneratedValue with JPA and Hibernate - Vlad Mihalcea</li>
+        <li>How to Reduce Your PostgreSQL Database Size</li>
+        <li>How To Set Up AUM To Record Into Cubasis - FULL Tutorial For The iPad</li>
+        <li>How To Use ON CONFLICT CLAUSE in PostgreSQL</li>
+        <li>How To Use That 800 Year Old Melody Technique That&#39;s Awesome 👨‍🔬 - YouTube</li>
+        <li>HTML</li>
+        <li>HTMX - Dynamic HTML without Javascript - YouTube</li>
+        <li>HTMX - What they don&#39;t want you to know! - YouTube</li>
+        <li>HTMX and Web Components: a Perfect Match</li>
+        <li>HTTPie for Web &amp; Desktop docs</li>
+        <li>HTTPie – API testing client that flows you</li>
+        <li>https://composeflow.io/</li>
+        <li>https://ddd.academy/domain-driven-design-in-java/</li>
+        <li>https://docs.jboss.org/hibernate/orm/7.0/introduction/html_single/Hibernate_Introduction.html</li>
+        <li>https://github.com/amusarra/quarkus-graphql-quickstart</li>
+        <li>https://hdombrovskaya.wordpress.com/wp-content/uploads/2016/09/bi_temporal_pg_open_2016.pdf</li>
+        <li>https://ionutbalosin.com/2024/03/analyzing-jvm-energy-consumption-for-jdk-21-an-empirical-study/</li>
+        <li>https://javapro.io/2025/06/06/stay-updated-with-every-new-release/</li>
+        <li>https://jooq-mcp.fly.dev/sse</li>
+        <li>https://map-final.rlp-umwelt.de/docs_kartendienste/BWP_2016_04_N/BWP_2016_04_N_Fachplan_Maßnahmen.pdf</li>
+        <li>https://martinelli.ch/spec-driven-development-with-ai-a-new-approach-and-a-journey-into-the-past/</li>
+        <li>https://myfear.substack.com/p/quarkus-transactions-panache-guide</li>
+        <li>https://pixabay.com/</li>
+        <li>https://postgresql.us/events/pgdaychicago2024/sessions/session/1553/slides/130/bitemporal_standard.pdf</li>
+        <li>https://vaadin.com/blog/build-modern-web-apps-100-in-kotlin?utm_content=287629617&amp;utm_medium=social&amp;utm_source=linkedin&amp;hss_channel=lcp-52231</li>
+        <li>https://www.atomicjar.com/2023/11/testcontainers-best-practices/</li>
+        <li>https://www.efr.de/wp-content/uploads/2022/03/Bedienungsanleitung_EFR-SGM-D4-1.pdf</li>
+        <li>https://www.linkedin.com/posts/daniel-vila-suero-484b6b45_github-huggingfaceaisheets-build-enrich-activity-7362483846665109504-dkA1?utm_medium=ios_app&amp;rcm=ACoAAEgUut8BpGHK9o8EMEYiva6gxWB9bRBgGxw&amp;utm_source=social_share_send&amp;utm_campaign=share_via</li>
+        <li>https://www.nabu.de/imperia/md/content/nabude/energie/biomasse/250312-nabu-flyer-heizen-mit-holz.pdf</li>
+        <li>https://www.solidjs.com/</li>
+        <li>https://www.wimdeblauwe.com/blog/2025/06/24/how-i-write-production-ready-spring-boot-applications/</li>
+        <li>Hublifte bis 3m Höhe: Preise, Beratung &amp; Einbau</li>
+        <li>Hugging Face – The AI community building the future.</li>
+        <li>Hätte ich DAS früher gewusst! ssh-add erleichtert dir deine SSH Verbindungen - YouTube</li>
+        <li>Hörmann Garagen-Torsteuerung A445 Erfahrungen</li>
+        <li>I&#39;d Never Do a Whiteboard Interview -  Matt Soucoup | The Developer&#39;s Journey Episode 1</li>
+        <li>IGotAnOffer: Engineering - YouTube</li>
+        <li>ImgBurn</li>
+        <li>imgproxy</li>
+        <li>Immutables</li>
+        <li>Improve Serialization Performance in Django Rest Framework | Haki Benita</li>
+        <li>Improving the performance of high-cardinality terms aggregations in Elasticsearch</li>
+        <li>Indie-Musik – Apple Music</li>
+        <li>INDYCAR Live</li>
+        <li>Innenleben der Eifelvulkane enthüllt</li>
+        <li>Inside.java</li>
+        <li>insomnium</li>
+        <li>Install OKD | OKD Kubernetes Platform</li>
+        <li>Installing Home Assistant OS (HAOS) in KVM on Raspberry Pi 5</li>
+        <li>Installing OpenShift on a single node - Installing on a single node | Installing | OKD 4</li>
+        <li>Intelligent Octopus 🌱 – smarter Stromtarif für E‑Auto, Speicher &amp; Zuhause</li>
+        <li>IntelliJ IDEA Conf 2025. Day 2 - YouTube</li>
+        <li>IntelliJ IDEA Tips &amp; Tricks by Anton Arhipov youtube.com</li>
+        <li>Interview: Was macht gelungene Renaturierung aus? - Spektrum der Wissenschaft</li>
+        <li>Introduction of Immutables</li>
+        <li>iOS Musician Apps, Supported Technologies is Audio Unit (AU), Type is Host (29)</li>
+        <li>Is Django too slow?</li>
+        <li>Issue 73 / 1 August 2025</li>
+        <li>Issue 75 / 15 August 2025 - MOONBUILDING WEEKLY</li>
+        <li>Issue 92 / 12 December 2025</li>
+        <li>java - Multiple WebSecurityConfigurerAdapters: JWT authentication and form login in spring security - Stack Overflow</li>
+        <li>java - Sending GET request with Authentication headers using restTemplate - Stack Overflow</li>
+        <li>Java Bubble</li>
+        <li>Java Concurrency Cheatsheet</li>
+        <li>Java Hibernate Reverse Engineering Tutorial with Eclipse and MySQL</li>
+        <li>Java Persistence with Spring Data and Hibernate</li>
+        <li>Java – How-Tos and Tutorials - HappyCoders.eu</li>
+        <li>JavaOne 2025 - YouTube</li>
+        <li>Javarevisited: Blog about Java Programming Tutorials, Examples, Design Patterns, Interview Questions and Answers, FIX Protocol, Tibco RV messaging, UNIX and Linux Commands, XML, SQL, MySQL, Oracle, jQuery, JavaScript,HTML, Multithreading, Collection, Error and Exception, Debugging, Best Practices and Practical tips from my experience.</li>
+        <li>JAVASCRIPT</li>
+        <li>JavaScript Madness: Keyboard Events</li>
+        <li>Jazz thing &amp; Blue Rhythm: News, Rezensionen, Konzerte, Festivals, Jazz in Fernsehen und Radio</li>
+        <li>Jazz-Musik – Apple Music</li>
+        <li>JBang</li>
+        <li>JBoss Tools - Downloads</li>
+        <li>JetBrains Platform</li>
+        <li>JetBrains/compose-multiplatform-ios-android-template: Compose Multiplatform iOS+Android Application project template</li>
+        <li>jfcoz/postgresqltuner: Simple script to analyse your PostgreSQL database configuration, and give tuning advice</li>
+        <li>JobrRunr Github</li>
+        <li>JobRunr brings Carbon Aware Scheduling to JVM: Saving the planet one job at a time - JVM Weekly vol. 138</li>
+        <li>JobRunr Java Docs</li>
+        <li>JobRunr Quick Start - YouTube</li>
+        <li>JobRunr v8 released: Java job scheduler now with Carbon Aware Jobs : r/java</li>
+        <li>jOOQ 3.15’s New Multiset Operator Will Change How You Think About SQL – Java, SQL and jOOQ.</li>
+        <li>JPA Buddy – From Zero to Hero | @MarcoCodes - YouTube</li>
+        <li>JReleaser</li>
+        <li>JSpecify Main | JSpecify</li>
+        <li>Just - Command Line toolkit for developing Spring Boot applications - Just</li>
+        <li>Just Use Postgres!</li>
+        <li>K&amp;D SESSIONS LIVE - &#39;Speechless Live&#39; at Elbphilharmonie Hamburg - YouTube</li>
+        <li>K-Lite Codec Pack</li>
+        <li>Kafka Consumers: Under the Hood of Message Processing</li>
+        <li>Kafka Message Acknowledgement Options - Java Code Geeks</li>
+        <li>Karakeep Docs</li>
+        <li>KEDA</li>
+        <li>Kids Playing Push GIF - Kids Playing Push Pushing - Discover &amp; Share GIFs</li>
+        <li>Klibs.io — Search 1500+ KMP libraries | JetBrains</li>
+        <li>Kotlin 2.2.0: Game-Changing Features That Will Transform Your Development Workflow</li>
+        <li>Kraan @ Harmonie | BONN - Do., 17.09.2026</li>
+        <li>Kraftklub – &quot;Schief in jedem Chor&quot; | ZDF Magazin Royale - YouTube</li>
+        <li>Kratzen - Rockpalast Crossroads</li>
+        <li>Kraut und Rüben - Sendung - Rockpalast - Fernsehen - WDR</li>
+        <li>Krautrock Legend Roedelius on the Designs That Front His Groundbreaking Sounds – Eye on Design</li>
+        <li>Kriegserklärung der Regierung an die Natur: Wie BUND &amp; NABU antworten sollten</li>
+        <li>Kubegres is available as open source</li>
+        <li>Kysely The type-safe SQL query builder for TypeScript</li>
+        <li>Kölner Büro für Faunistik</li>
+        <li>LangChain for Java: Supercharge your Java application with the power of LLMs</li>
+        <li>LangChain4j - use the power of LLMs in Java! - YouTube</li>
+        <li>Latest Music Technology News | MusicTech</li>
+        <li>Latest Releases | Adoptium</li>
+        <li>Launch highlight: Paginate with Point in Time · OpenSearch</li>
+        <li>Launching XTDB v2 — time-travel SQL database to simplify compliance · XTDB</li>
+        <li>LDraw</li>
+        <li>le0pard/pgtune: Pgtune - tuning PostgreSQL config by your hardware</li>
+        <li>Learn-to-Rank with OpenSearch and Metarank · OpenSearch</li>
+        <li>Legendäres Rennen 2008</li>
+        <li>Let&#39;s Take a Look at... KIP-932: Queues for Kafka! - Gunnar Morling</li>
+        <li>Level Up Your Java CI: A Fully Automated Monorepo Pipeline with GitHub Actions</li>
+        <li>LibHunt</li>
+        <li>Listen to Postgres Changes with Apache Kafka | by Josip Vojak | Geek Culture | Medium</li>
+        <li>Living Colour: Tiny Desk Concert : NPR</li>
+        <li>lovell/sharp: High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP, AVIF and TIFF images. Uses the libvips library.</li>
+        <li>m.devoxx.com/events/dvbe2...</li>
+        <li>MacGesture</li>
+        <li>Make data migration easy with Debezium and Apache Kafka</li>
+        <li>MakeMKV</li>
+        <li>manifold-systems/manifold: Manifold is a Java compiler plugin, its features include Metaprogramming, Properties, Extension Methods, Operator Overloading, Templates, a Preprocessor, and more.</li>
+        <li>Mantine</li>
+        <li>Mapping Collections with MapStruct | Baeldung</li>
+        <li>Mapping Java Records to JSON columns using Hibernate - Vlad Mihalcea</li>
+        <li>MapStruct 1.5.5.Final Reference Guide</li>
+        <li>Markdown | Kotlin Documentation</li>
+        <li>Marti Fischer &amp; Musik-Studierende: Synthwave</li>
+        <li>Massive Attack Live from Abbey Road - YouTube</li>
+        <li>Massive Attack: Unfinished: The Making of Massive Attack - YouTube</li>
+        <li>Maximilian Fichtner: Energiespeicher der Zukunft</li>
+        <li>Mein Gespräch mit Harald Grethe über nachhaltige Landwirtschaft – Sonne &amp; Stahl</li>
+        <li>Memory Management in Python – Real Python</li>
+        <li>mendableai/firecrawl</li>
+        <li>Merging vs. Rebasing | Atlassian Git Tutorial</li>
+        <li>Methanol statt Wasserstoff als Langzeitspeicher</li>
+        <li>Methanol statt Wasserstoff? - Methanol und Allam-Turbinen könnten Alternative für die Energiespeicherung bieten - scinexx.de</li>
+        <li>michael-simons/scrobbles4j</li>
+        <li>MicroK8s - Zero-ops Kubernetes for developers, edge and IoT</li>
+        <li>Microservices vs Monoliths in 2026: When Each Architecture Wins</li>
+        <li>Microwave 1 für iPad – Waldorf Music</li>
+        <li>MiG Layout</li>
+        <li>minikube</li>
+        <li>MinIO for Modern Datalakes</li>
+        <li>Mischwald statt Monokultur: Rettung für Deutschlands Wälder</li>
+        <li>Modeling sequence-based composite primary keys with Hibernate</li>
+        <li>Modern frontends with Thymeleaf and htmx by Wim Deblauwe - YouTube</li>
+        <li>Modern Java Meets Native Power: Image Processing with the FFM API in Quarkus</li>
+        <li>Mojo 🔥: Programming language for all of AI</li>
+        <li>MOLVÆR NILS PETTER live in Ingolstadt, November 15 2024</li>
+        <li>Monkey Conduciendo GIF - Monkey Conduciendo - Discover &amp; Share GIFs</li>
+        <li>Monodraw for macOS</li>
+        <li>Moonbuilding - Moonbuilding Weekly Issue 73</li>
+        <li>Motor-Kritik</li>
+        <li>Motorsport Photographer Jamey Price | Golden Hour</li>
+        <li>Motorsport.com</li>
+        <li>Mousetrap - Keyboard shortcuts in Javascript</li>
+        <li>Multiple Spring Security Configurations — Form-Based &amp; Token-Based Authentication</li>
+        <li>Muppets Driving Car GIF - Ride Fozzie Bear Kermit - Discover &amp; Share GIFs</li>
+        <li>Must(read) on Optional(type). This article is long time coming. It… | by piotr szybicki | 12 developer labors | Medium</li>
+        <li>My favorite Git tools | Opensource.com</li>
+        <li>Nachtspeicherheizung per Wifi möglich ?? | Techniker-Forum</li>
+        <li>New Livestream: Virtual Threads in Action!</li>
+        <li>nexsol-technologies/pgassistant: PgAssistant is an open-source tool designed to help developers understand and optimize their PostgreSQL database performance.</li>
+        <li>nginx</li>
+        <li>Nginx Proxy Manager</li>
+        <li>Nighthawks live | Leverkusener Jazztage 2023 | Jazzline - YouTube</li>
+        <li>NIKI LAUDA&#39;S F1 FERRARI IN MONACO (BEHIND THE SCENES)</li>
+        <li>Nile Rodgers: From Disco to Daft Punk - Die ganze Doku | ARTE</li>
+        <li>Nine ways to shoot yourself in the foot with PostgreSQL</li>
+        <li>No, Your Domains and Bounded Contexts Don’t Map 1 on 1 Bounded Contexts are a design choice to suit engineering needsverraes.net</li>
+        <li>Nordschleife: Brünnchen - mit Hunden • Wanderung</li>
+        <li>Nürburgring Classic</li>
+        <li>Nürburgring Homepage</li>
+        <li>Nürburgring Nordschleife</li>
+        <li>Nürburgring Nordschleife DSLR-Forum</li>
+        <li>ocrmypdf/OCRmyPDF</li>
+        <li>Offset and Keyset Pagination with Spring Data JPA - Thorben Janssen</li>
+        <li>On this day in 1983 Blue Monday was released. Watch how the band embraced technology on the @thisisdigmusic</li>
+        <li>OneDev - The powerful and simple DevOps platform</li>
+        <li>Online-Magazin für Keyboards, Synthesizers, Recording &amp; DJ</li>
+        <li>ONLYOFFICE</li>
+        <li>OOP vs Data Oriented Programming: Which One to Choose? - Venkat Subramaniam - YouTube</li>
+        <li>Open API Diff and Changes</li>
+        <li>OpenAPI Generator :: Quarkiverse Documentation</li>
+        <li>OpenAPI Is Not Enough</li>
+        <li>OpenCloud</li>
+        <li>OpenProject</li>
+        <li>OpenRewrite: Migrate to Spring Boot 3.2</li>
+        <li>OpenSearch - YouTube</li>
+        <li>OpenSearch Shard Optimization - Dattell</li>
+        <li>Openshift/OKD assisted-service/deploy/podman at master · openshift/assisted-service</li>
+        <li>Openshift/OKD Running &#39;crc&#39; on a remote server</li>
+        <li>Openshift/OKD single node install - manually generated discovery ISO · okd-project/okd · Discussion #1235</li>
+        <li>Optimize Django memory usage | Guguweb</li>
+        <li>Optimizing Postgres table layout for maximum efficiency</li>
+        <li>oq - a terminal-based OpenAPI Spec (OAS) viewer</li>
+        <li>Outbox Pattern Survival Guide TL;DR: Successfully implementing the Outbox pattern in distributed systems is harder than it looks. Here are some common pitfalls and…medium.com</li>
+        <li>Overengineering in Onion/Hexagonal Architectures – Victor Rentea</li>
+        <li>Package by Feature</li>
+        <li>Pandoc template for DIN5008 conforming letters</li>
+        <li>Partition an existing table on PostgreSQL | by Rodolphe Quiédeville | Medium</li>
+        <li>Partitioned table statistics</li>
+        <li>Partitioning in Postgres and the risk of high partition counts - YouTube</li>
+        <li>Patchstorage | Discover &amp; Showcase Your Patches</li>
+        <li>Patrick Weaver</li>
+        <li>patroni/patroni: A template for PostgreSQL High Availability with Etcd, Consul, ZooKeeper, or Kubernetes</li>
+        <li>Peter Gabriel Full Moon January 2026 - Been Undone</li>
+        <li>pg_bm25: Elastic-Quality Full Text Search Inside Postgres</li>
+        <li>PGActivity</li>
+        <li>pgBadger :: PostgreSQL Log Analyzer</li>
+        <li>pgcalendar - Infinite Calendar Extension for PostgreSQL</li>
+        <li>PGHero</li>
+        <li>PGSlice</li>
+        <li>PGSync</li>
+        <li>PGTune - calculate configuration for PostgreSQL based on the maximum performance for a given hardware configuration</li>
+        <li>pgtuned/pgtune.sh at main · esgn/pgtuned</li>
+        <li>PGXN: PostgreSQL Extension Network</li>
+        <li>phpdocker-io/readability-js-server</li>
+        <li>Podcast Deep Science: Renaturierung im Meer - Klang der Korallen</li>
+        <li>Pop&amp;Rewind - der Nachtmix Podcast</li>
+        <li>Ports &amp; Adapters Architecture</li>
+        <li>Postgres in Kubernetes: How to Deploy, Scale, and Manage</li>
+        <li>Postgres Ltree Cheatsheet</li>
+        <li>Postgres performance at any scale | PostgreSQL Tuning - pganalyze</li>
+        <li>PostgreSQL + Outbox Pattern Revamped — Part 2</li>
+        <li>PostgreSQL 18 just dropped: 10 powerful new features devs need to know | by &lt;devtips&gt; | Run.it.Bare | May, 2025 | Medium</li>
+        <li>PostgreSQL Performance Tuning Settings</li>
+        <li>PostgresqlCO.NF: PostgreSQL configuration for humans</li>
+        <li>Practical Partitioning with PostgreSQL (in Production!)</li>
+        <li>Praktische Elektronik | The British Stereo Collective</li>
+        <li>Pricing | Edka - one Kubernetes cluster always free</li>
+        <li>PRINCE &amp; 3RDEYEGIRL - CRAZY2COOL (June 1, 2014 - Le Zénith, Paris, FR)</li>
+        <li>Programming’s Sacred Cows: How Best Practices Became the Industry’s Most Dangerous Religion | by Terrance Craddock | Mr. Plan ₿ Publication | Mar, 2025 | Medium</li>
+        <li>Project Reactor - Documentation</li>
+        <li>ProjectX</li>
+        <li>PS Nürburgring - Steilstrecke</li>
+        <li>Python’s “Disappointing” Superpowers - lukeplant.me.uk</li>
+        <li>pythops/oryx</li>
+        <li>Quarkiverse Hub</li>
+        <li>quarkiverse/quarkus-docling: Docling simplifies document processing, parsing diverse formats — including advanced PDF understanding — and providing seamless integrations with the gen AI ecosystem</li>
+        <li>quarkiverse/quarkus-resteasy-problem: Unified error responses for Quarkus REST APIs via Problem Details for HTTP APIs (RFC9457 &amp; RFC7807)</li>
+        <li>Quarkus - Supersonic Subatomic Java</li>
+        <li>Quarkus at RivieraDev 2025 #48256</li>
+        <li>Quarkus Foundations for Java Developers</li>
+        <li>Quarkus Qute Markdown :: Quarkiverse Documentation</li>
+        <li>Quarkus Qute Web :: Quarkiverse Documentation</li>
+        <li>QuickRef.ME - Quick Reference Cheat Sheet</li>
+        <li>quickwit-oss/tantivy: Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust</li>
+        <li>Qute Reference Guide - Quarkus</li>
+        <li>RACER</li>
+        <li>Racingblog</li>
+        <li>Racingblog TV-Planer</li>
+        <li>Racingblog · Cbox</li>
+        <li>Radiohead - Present Tense (Live at Lollapalooza Chicago 2016) - YouTube</li>
+        <li>RadioLeMans.com</li>
+        <li>Rclone</li>
+        <li>React Native for Windows + macOS · Build native Windows &amp; macOS apps with Javascript and React</li>
+        <li>Reactive SQL with jOOQ 3.15 and R2DBC – Java, SQL and jOOQ.</li>
+        <li>Readability.js</li>
+        <li>Realtime database</li>
+        <li>RecordBuilder</li>
+        <li>Recurring Events and PostgreSQL</li>
+        <li>Red Hat OpenShift Local | Red Hat Developer</li>
+        <li>Red Hot Chili Peppers - Buenos Aires, Argentina 2023 (HD) | River Plate Stadium</li>
+        <li>Red Hot Chili Peppers - Live at the Pyramids</li>
+        <li>Redis Returns to Open Source under AGPL License: Is It Too Late? - InfoQ</li>
+        <li>Reflections: Neu!</li>
+        <li>Refurbished Three Mile Island Payment Structure Is Not Quite What It Seems - CleanTechnica</li>
+        <li>Releases · eclipse/org.aspectj</li>
+        <li>Renovate</li>
+        <li>Resplendent In The Light Of The Universe (DiN93)</li>
+        <li>REST Query Language with Spring Data JPA Specifications | Baeldung</li>
+        <li>reveal.js</li>
+        <li>Reverse Proxy Deep Dive (Part 3): The Hidden Complexity of Service Discovery | Mitendra Mahto</li>
+        <li>Ribot Marc - LIVE 60 JAZZALDIA: MARC RIBOT HURRY RED TELEPHONE – UZTAILAK 25, 2025 - YouTube</li>
+        <li>RIFFER by Audiomodern™ | The Creative MIDI Sequencer</li>
+        <li>Rodgers Nile &amp; CHIC - Live at Pinkpop 2022 - YouTube</li>
+        <li>Rodrigo Olivia - Just Like Heaven (feat. Robert Smith) (Glastonbury 2025) - YouTube</li>
+        <li>Roni Size · AV DJ Set, Live from Bristol</li>
+        <li>Rother Michael (NEU!) performing &quot;Negativland&quot;</li>
+        <li>Rother Michael - Live Session &amp; interview</li>
+        <li>ROZETA - CELLS Polyphonic Step Sequencer - Tutorial for the iPad - YouTube</li>
+        <li>Rozeta Scaler + Fugue Machine Demo</li>
+        <li>RS Player</li>
+        <li>RsyncUI 2.8.5: Frische Optik und Inspector-Ansicht in Arbeit</li>
+        <li>Samba4 issues with Time Machine: cannot create new backup on Samba share</li>
+        <li>sampotts/plyr: A simple HTML5, YouTube and Vimeo player</li>
+        <li>Saving a Tree in Postgres Using LTREE</li>
+        <li>Saving a Tree in Postgres Using LTREE - DZone Database</li>
+        <li>Say Goodbye to Containers - Ephemeral Environments with Nix Shell</li>
+        <li>Scaling Kubernetes to 2,500 nodes</li>
+        <li>Scan, Split, Share: Building a Java AI Expense App with Quarkus and LangChain4j</li>
+        <li>Scripting auf der JVM mit JBang von Yassine Benabbas - YouTube</li>
+        <li>Secrets of Performance Tuning Java on Kubernetes - YouTube</li>
+        <li>Secure Authentication and Authorization with JWT in Spring Boot 3 and Spring Security 6: Step-by-Step Guide | Medium</li>
+        <li>Securing Spring Boot REST API with JSON Web Token and JDBC Token Store</li>
+        <li>Seeking Recommendations for Best API Management Tools : r/AskProgramming</li>
+        <li>Service registry pattern</li>
+        <li>Setting up Argo CD with Helm</li>
+        <li>shadcn-svelte</li>
+        <li>shadcn/ui</li>
+        <li>Shoelace: A forward-thinking library of web components.</li>
+        <li>Should Java 8 getters return optional type? - Stack Overflow</li>
+        <li>Simon Martinelli – Auf Wiedersehen Microservices, Hallo Self-Contained Systems - YouTube</li>
+        <li>Simplified Java Data Transfer Objects (DTO-Free Java)</li>
+        <li>SivaLabs - Using Java Records with Spring Boot 3</li>
+        <li>SliDev</li>
+        <li>SNO Assisted Installer - Expected the host to boot from disk, but it booted the installation image : r/openshift</li>
+        <li>So You Think You Know Git - FOSDEM 2024 - YouTube</li>
+        <li>Soft Deletes Done Right: Hibernate Filters in Quarkus with Panache and PostgreSQL</li>
+        <li>Software Performance: Avoiding Slow Code, Myths &amp; Sane Approaches – Casey Muratori | The Marco Show - YouTube</li>
+        <li>software-architektur.tv: Vaughn Vernon about Domain-driven Design | heise online</li>
+        <li>Solo Three, by Erik Hall</li>
+        <li>Solving Performance Problems in the Django ORM | by Kyle Hanson | Medium</li>
+        <li>Sorry Its Buggy Bugs GIF - Sorry Its Buggy Bugs Sorry - Discover &amp; Share GIFs</li>
+        <li>Soul/Funk-Musik – Apple Music</li>
+        <li>Space Mirage | 70s A Berlin School | Vintage Synths and Electronic Vibes</li>
+        <li>Spaltung der Gesellschaft? Wir sind weniger uneins, als wir denken</li>
+        <li>Spencer for Mac</li>
+        <li>Sports Car Digest</li>
+        <li>Spring Boot 3.2: Replace Your RestTemplate With RestClient</li>
+        <li>Spring Boot Authorization: Creating an Authorization Server for your Microservices | by C. R. Raja Vignesh | Javarevisited | Medium</li>
+        <li>Spring Boot Security Jwt Authentication</li>
+        <li>Spring Boot Token based Authentication with Spring Security &amp; JWT - BezKoder</li>
+        <li>Spring Boot, JPA/Hibernate, PostgreSQL example with Maven - BezKoder</li>
+        <li>Spring Data JPA - Reference Documentation</li>
+        <li>Spring Data JPA save() Method Explained</li>
+        <li>Spring Security + JWTs getting started | by Thomas Andolf | Medium</li>
+        <li>Spring Security JWT Tutorial | Toptal®</li>
+        <li>spring-security/samples/boot/oauth2resourceserver-static at 5.4.x · spring-projects/spring-security · GitHub</li>
+        <li>SQL</li>
+        <li>SQL Performance Explained</li>
+        <li>Starterliste 2025 - Eifel Rallye Festival</li>
+        <li>Starterliste 2025 PDF - Eifel Rallye Festival</li>
+        <li>Startseite</li>
+        <li>Steve McQueen: The Lost Formula 1 Movie - YouTube</li>
+        <li>Sting Isle Of Wight 20.06.2025</li>
+        <li>Stop Brute Force Authentication Attempts with Spring Security | Baeldung</li>
+        <li>Stop treating your domain model like a shared database table. | Rico Fritzsche</li>
+        <li>Stop Writing Excel Specs: A Markdown-First Approach to Enterprise Java</li>
+        <li>stopwords-de/stopwords-de.txt at master · stopwords-iso/stopwords-de</li>
+        <li>Streetmark - Welcome (inclusiv Intro) - YouTube</li>
+        <li>Subqueries and performance in PostgreSQL - CYBERTEC</li>
+        <li>Suddo Quarkus</li>
+        <li>supabase/pg_graphql: GraphQL support for PostgreSQL</li>
+        <li>SWR 100 Jahre Nürburgring - Geschichte einer Kultstrecke</li>
+        <li>T8RIN/ImageToolbox</li>
+        <li>Tailscale</li>
+        <li>Talks - Devoxx UK</li>
+        <li>Taming Thymeleaf - Wim Deblauwe</li>
+        <li>Tart</li>
+        <li>tauri-apps/tauri</li>
+        <li>Temporal Extensions</li>
+        <li>Temporal Patterns</li>
+        <li>Temporal State in Practice with Quarkus: Build a Fleet Insurance Engine</li>
+        <li>Temporal tables</li>
+        <li>Temporale Datenhaltung in der Praxis mit Java | heise online</li>
+        <li>Temporale Datenhaltung – Wikipedia</li>
+        <li>Testcontainers for Java</li>
+        <li>TestDisk</li>
+        <li>Text Rendering Hates You - Faultlore</li>
+        <li>Textualize/textual: Textual is a Rapid Application Development framework for Python. Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and (coming soon) a web browser!</li>
+        <li>That time Ford defeated Porsche: The Legend of the Zakspeed Capri and Fox Mustang - YouTube</li>
+        <li>The 150 Best Albums of the 1990s</li>
+        <li>The Adult in the Room: Why It’s Time to Move AI from Python Scripts to Java Systems</li>
+        <li>The awesome BaseJpaRepository from Hypersistence Utils</li>
+        <li>The Best Albums of 2025 on Echoes</li>
+        <li>The best way to implement an audit log using Hibernate Envers - Vlad Mihalcea</li>
+        <li>The best way to soft delete with Hibernate - Vlad Mihalcea</li>
+        <li>The best way to use Java Records with JPA and Hibernate - Vlad Mihalcea</li>
+        <li>The Cloud Native Application Proxy</li>
+        <li>THE DESIGN OF POSTGRES EXTENSION MANAGER “PGXMAN”</li>
+        <li>The Elegance of Pattern Matching in Modern Java</li>
+        <li>The History of The Motorik Beat in 10 Records</li>
+        <li>The Killers &amp; Bruce Springsteen: Encore At The Garden - YouTube</li>
+        <li>The New Stack | DevOps, Open Source, and Cloud Native News</li>
+        <li>The saddest &quot;Just Ship It&quot; story ever</li>
+        <li>The Sakila Database</li>
+        <li>The Ultimate Guide to Java Virtual Threads | Rock the JVM</li>
+        <li>The Unexpected Find That Freed 20GB of Unused Index Space</li>
+        <li>The Universal Process Orchestrator | Camunda</li>
+        <li>The-Digital-Picture.com features Canon DSLR Camera and Lens Reviews, News, Deals and Tips</li>
+        <li>They Enabled Postgres Partitioning and their Backend fell apart - YouTube</li>
+        <li>Time travel: two-dimensional time with bitemporal data</li>
+        <li>Timing71</li>
+        <li>Tina Weymouth: A Master of Groove, Part 1</li>
+        <li>TLS Handshake Latency: When Your Load Balancer Becomes a Bottleneck</li>
+        <li>Togglz - Features flag for Java</li>
+        <li>Tom Tom Club: NPR Music Tiny Desk Concert</li>
+        <li>Tomato Architecture</li>
+        <li>Top 10 Must-Have Krautrock Records</li>
+        <li>Top 10: Das beste Balkonkraftwerk mit 800 Watt im Test – mit exklusiven Rabatten | Heise online bestenlisten</li>
+        <li>Top 3 Albums of 2025</li>
+        <li>Total Commander</li>
+        <li>trekhleb/javascript-algorithms: 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings</li>
+        <li>Truth In 24</li>
+        <li>TRUTH IN 24 II: Every Second Counts</li>
+        <li>TS-Doctor</li>
+        <li>Tuning your PostgreSQL for High Performance</li>
+        <li>Turbo</li>
+        <li>Typst Tutorial</li>
+        <li>typst/typst</li>
+        <li>uakihir0/kbsky: Kotlin multiplatform Bluesky/ATProtocol library.</li>
+        <li>ujson · PyPI</li>
+        <li>Understanding Bitemporal Data</li>
+        <li>Understanding Bitemporal Primary Keys</li>
+        <li>Understanding Postgres IOPS: Why They Matter Even When Everything Fits in Cache</li>
+        <li>Underworld | Boiler Room: London - YouTube</li>
+        <li>Unexpected downsides of UUID keys in PostgreSQL | CYBERTEC PostgreSQL | Services &amp; Support</li>
+        <li>Unleashing AI in Java: A Guide to Semantic Kernel, LangChain4j, and Spring AI by Marcus Hellberg</li>
+        <li>Unpoly: Unobtrusive JavaScript framework</li>
+        <li>updatest</li>
+        <li>Useful &amp; Unknown Java Libraries - Piotr&#39;s TechBlog</li>
+        <li>Using DRF Effectively to Build Cleaner and Faster APIs in Django</li>
+        <li>Using LTree to Represent and Query Hierarchy and Tree Structures - Postgres OnLine Journal</li>
+        <li>Using must_not and wildcard to search - Elastic Stack / Elasticsearch - Discuss the Elastic Stack</li>
+        <li>Using PostgreSQL ltree type with a Java ORM layer - Genera Codice</li>
+        <li>Vaadin Meets Quarkus: Build Modern Java UIs Without Touching JavaScript</li>
+        <li>VCDHelp</li>
+        <li>Vertical Slice Architecture</li>
+        <li>VikParuchuri/marker</li>
+        <li>Vince Clarke Interview on BBC show The Old Grey Whistle Test - YouTube</li>
+        <li>Vinylist (Music &amp; Antifa)</li>
+        <li>Virtual threads in action! - YouTube</li>
+        <li>VLC</li>
+        <li>VLN - Nürburgring Langstrecken Serie</li>
+        <li>Vrc Race Day GIF - Vrc Race Day Btcc - Discover &amp; Share GIFs</li>
+        <li>Walter Röhrl im Interview mit Christian Geistdörfer Das Jahr 1980 im Rückspiegel</li>
+        <li>Wasserstoff und Methanol – Pro und Contra - HI:TECH CAMPUS</li>
+        <li>Weather Report | Live In 1978 | Full Live Concert | Rockpalast - YouTube</li>
+        <li>Web Awesome</li>
+        <li>WebSocket Client API</li>
+        <li>Were React Hooks a Mistake? | jakelazaroff.com</li>
+        <li>Wesseltoft Bugge, Dhafer Youssef, Erik Truffaz - live 2004 - YouTube</li>
+        <li>What is better: a lookup table or an enum type?</li>
+        <li>What is Helm in Kubernetes? A complete guide | Glasskube</li>
+        <li>What is SKIP LOCKED for in PostgreSQL 9.5? - 2ndQuadrant | PostgreSQL</li>
+        <li>What’s It Like Drumming For Frank Zappa? | Chad Wackerman</li>
+        <li>When to Avoid Git Rebase</li>
+        <li>When to Consider Postgres Partitioning</li>
+        <li>Why Senior Developers Google Basic Syntax</li>
+        <li>Wielding the Quarkus CLI: Why Java Developers Should Embrace This Command-Line Power Tool</li>
+        <li>wimdeblauwe/htmx-spring-boot-thymeleaf: Spring Boot and Thymeleaf helpers for working with htmx</li>
+        <li>Windows Tools Sysinternals</li>
+        <li>Working With SQL and Databases in JetBrains IDEs - YouTube</li>
+        <li>Writing a good CLAUDE.md</li>
+        <li>Writing a TrueType font renderer</li>
+        <li>www.LeMansZone.de - Eine deutsche Fanseite zu den 24 Stunden von Le Mans</li>
+        <li>xnview</li>
+        <li>Yabba Dabba Doo Car GIF - Yabba Dabba Doo Car Flintstones - Discover &amp; Share GIFs</li>
+        <li>YESTERTOONS - Official Channel - YouTube</li>
+        <li>You might already have a Maven repository</li>
+        <li>You Want Microservices—But Do You Need Them? | Docker</li>
+        <li>zalando/postgres-operator: Postgres operator creates and manages PostgreSQL clusters running in Kubernetes</li>
+        <li>Zappa Frank - Dog Breath Variations + Uncle Meat - YouTube</li>
+        <li>zombodb/zombodb: Making Postgres and Elasticsearch work together like it&#39;s 2022</li>
+        <li>Zusammengesetzte Worte in Elasticsearch</li>
+        <li>Zwischengas</li>
+        <li>» Deep dive into postgres stats: pg_stat_bgwriter</li>
+        <li>Ökonom über die USA unter Trump: „Das System ist gekippt“</li>
+        <li>🚀 Carrot Cache: High-Performance, SSD-Friendly Caching Library for Java | by Vladimir Rodionov | Carrot Data Engineering Blog | Medium</li>
+    </ul>
+</body>
+</html>
